@@ -78,5 +78,5 @@ app.get("/produtos/:id", (req, res) => {
 });
 
 app.listen(8080, "0.0.0.0" ,() =>
-  console.log("Server is running at http://localhost:8080/")
+  console.log("Server is running at https://projeto-lista-api.vercel.app/")
 );

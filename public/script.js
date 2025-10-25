@@ -1,5 +1,5 @@
 
-      const API_URL = "http://localhost:8080";
+      const API_URL = "https://projeto-lista-api.vercel.app/";
 
       function criarLinhaProduto(produto) {
         const trProduto = document.createElement("tr");
